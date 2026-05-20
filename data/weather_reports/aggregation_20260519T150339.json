@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-05-19T15:03:39+00:00",
+  "triggered_by_dag_run": "manual__2026-05-19T15:03:40.473392+00:00",
+  "total_snapshots": 1,
+  "global_avg_temperature_c": 14.01,
+  "hottest_city": {
+    "city": "Paris",
+    "avg_temperature_c": 14.01
+  },
+  "coldest_city": {
+    "city": "Paris",
+    "avg_temperature_c": 14.01
+  },
+  "risk_level_distribution": {
+    "low": 1
+  },
+  "cities_processed": [
+    {
+      "city": "Paris",
+      "country": "France",
+      "avg_temperature_c": 14.01,
+      "risk_level": "low",
+      "run_date": "2026-05-19"
+    }
+  ]
+}

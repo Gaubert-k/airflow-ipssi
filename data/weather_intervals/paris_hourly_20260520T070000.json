@@ -1,0 +1,12 @@
+{
+  "dag": "hourly",
+  "city": "Paris",
+  "country": "France",
+  "interval": {
+    "start": "2026-05-20T07:00:00+00:00",
+    "end": "2026-05-20T07:00:00+00:00"
+  },
+  "total_measurements": 0,
+  "weather_code_distribution": {},
+  "dominant_weather_code": null
+}

@@ -1,0 +1,13 @@
+{
+  "city": "Paris",
+  "country": "France",
+  "latitude": 48.85341,
+  "longitude": 2.3488,
+  "run_date": "2026-05-19",
+  "generated_at": "2026-05-19T14:56:23+00:00",
+  "metrics": {
+    "avg_temperature_c": 14.01,
+    "max_wind_speed_kmh": 16.5,
+    "total_precipitation_mm": 2.9
+  }
+}
